@@ -76,5 +76,5 @@ on end
 
 ## Solutions
 
-* 修改 `reqest` 中 redirect 的实现方式。有没有同学与提交 PR ?
+* 修改 `reqest` 中 redirect 的实现方式。有没有同学去提交 PR ?
 * 我们自己代码中添加 `maxRedirects` 选项，这种方式也便于我们发现重定向次数过多的网站。
